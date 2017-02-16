@@ -1,0 +1,542 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+
+    <title>Special Builder Documentation</title>
+
+    <!-- Styles -->
+    <link href="assets/css/theDocs.all.min.css" rel="stylesheet">
+    <link href="assets/css/custom.css" rel="stylesheet">
+
+    <!-- Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Raleway:100,300,400,500%7CLato:300,400' rel='stylesheet' type='text/css'>
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="icon" href="assets/img/favicon.png">
+</head>
+<body data-spy="scroll" data-target=".sidebar" data-offset="200">
+
+
+    <!-- Sidebar -->
+    <aside class="sidebar sidebar-boxed sidebar-dark">
+
+        <a class="sidebar-brand" href="index.html"><img src="assets/img/logo.png" alt="logo"></a>
+
+        <ul class="nav sidenav dropable">
+            <li><a href="#intro">Introduction</a></li>
+            <li>
+                <a href="#beforeinstalling">Before installing</a>
+                <ul>
+                    <li><a href="#requirements">Requirements</a></li>
+                </ul>
+            </li>
+            <li><a href="#installation">Installation</a></li>
+			<li><a href="#update">Update</a></li>
+            <li>
+                <a href="#features">Features</a>
+                <ul>
+                    <li><a href="#draganddrop">Drag & drop</a></li>
+                    <li><a href="#contentediting">Editing content</a></li>
+                    <li><a href="#styleediting">Editing styles</a></li>
+                    <li><a href="#linkediting">Editing links</a></li>
+                    <li><a href="#imageediting">Editing images</a></li>
+                    <li><a href="#videoediting">Editing videos</a></li>
+                    <li><a href="#iconediting">Editing icons</a></li>
+                    <li><a href="#cloning">Cloning elements</a></li>
+                    <li><a href="#exporthtml">Exporting a site</a></li>
+                    <li><a href="#pages">Multiple pages</a></li>
+                    <li><a href="#responsive">Responsive views</a></li>
+                    <li><a href="#globalblocks">Global blocks</a></li>
+                </ul>
+            </li>
+			<li>
+				<a href="#formsettings">form settings</a>
+				 <ul>
+                    <li><a href="#customform">Custom Form</a></li>
+                    <li><a href="#mailchimp">Mailchimp</a></li>
+                    <li><a href="#campaignmonitor">Campaign Monitor</a></li>
+                    <li><a href="#getresponse">Getresponse</a></li>
+                    <li><a href="#aweber">AWeber</a></li>
+                    <li><a href="#phpform">Php Form</a></li>
+                </ul>
+			</li>
+        </ul>
+
+    </aside>
+    <!-- END Sidebar -->
+
+
+    <header class="site-header navbar-transparent">
+
+        <!-- Top navbar & branding -->
+        <nav class="navbar navbar-default">
+            <div class="container-fluid">
+
+                <!-- Toggle buttons and brand -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="true" aria-controls="navbar">
+                        <span class="glyphicon glyphicon-option-vertical"></span>
+                    </button>
+
+                    <button type="button" class="navbar-toggle for-sidebar" data-toggle="offcanvas">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <!-- END Toggle buttons and brand -->
+
+                <!-- Top navbar -->
+                <div id="navbar" class="navbar-collapse collapse" aria-expanded="true" role="banner">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="active">
+                            <a href="http://demo.designsvilla.com/html/landingpage/special/demo">Live Preview</a>
+                        </li>
+                        <li>
+                            <a href="https://designsvilla.ticksy.com" >Support</a>
+                        </li>
+                        <li class="hero">
+                            <a href="#" target="_blank">Purchase</a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- END Top navbar -->
+            </div>
+        </nav>
+        <!-- END Top navbar & branding -->
+
+        <!-- Banner -->
+        <div class="banner auto-size">
+            <div class="container-fluid text-white">
+                <h1><strong>Special Builder</strong> documentation</h1>
+                <h5>Version: 1.0</h5>
+            </div>
+        </div>
+        <!-- END Banner -->
+
+    </header>
+
+    <main class="container-fluid">
+
+        <!-- Main content -->
+        <article class="main-content" role="main">
+
+            <p class="lead">
+                We have a made a solid effort to provide as much documentation and information about Special HTML Builder, the way it was built, the way it works and its features. If, however, you find anything lacking from this document or you have any questions, do not hesitate to contact us at <a href="mailto:help.designsvilla@gmail.com">help.designsvilla@gmail.com</a> or submit a ticket through our help desk located at <a href="https://designsvilla.ticksy.com" target="_blank">DesignsVilla Support</a>.
+            </p>
+
+            <section>
+            
+                <h2 id="intro">Introduction</h2>
+
+                <p>
+                    <h3>What it is</h3>
+                    Special HTML Builder is a Javascript application which allows basic content editing visually.
+                </p>
+
+                <p>
+                    HTML Builder comes bundled with several HTML blocks to demonstrate it's usage (these are the same blocks as used in the <a href="http://builder2.chillyorange.com" target="_blank">online demo</a>). You are free to use the provided blocks in whatever way you like.
+                </p>
+
+                <p>
+                    HTML Builder runs (almost) entirely in the browser. The only server side code comes in the form of four PHP files, used for saving a page, uploading images, exporting an entire site and previewing changes.
+                </p>
+
+                <p>
+                    <h3>What it's not</h3>
+                    HTML Builder is NOT a CMS (content management system). It does not provide a way for end-users to work on live websites and make changes to such websites.
+                </p>
+
+            </section>
+
+            <section id="beforeinstalling">
+
+                <h2 id="requirements">Requirements</h2>
+
+                <p>
+                    To be able to use HTML Builder, you must have the following:
+                </p>
+                
+                <ul>
+                    <li>PHP</li>
+                    <li>Apache webserver (Windows servers will probably work, but are not supported)</li>
+                    <li>An FTP tool to upload the files</li>
+                </ul>
+
+            </section>
+
+            <section>
+
+                <h2 id="installation">Installation</h2>
+
+                <p>
+                    Installing the HTML Builder script is simply a matter uploading the contents of the <b>builder</b> folder to a server/hosting account. Once uploaded, point your browser to said server/hosting and your script will work.
+                </p>
+				<br>
+					<strong>For example: www.yourdomain.com/builder</strong>
+					<strong>or if you are using on subdomain url would be something like this : www.sub.yourdomain.com/builder</strong>
+				</p>
+				<p>
+					*Note: please don't upload the .zip file you downloaded from envato directly to your server, first unzip it, then upload the folder "builder" to the server.
+				</p>
+
+            </section>
+			<section>
+
+                <h2 id="update">Update</h2>
+
+                <p>
+					 Please follow these steps below To update the builder to the latest version:
+					<br>
+					<ol>
+						<li>Download upload folder from "/elements/images/uploads/".</li>
+						<li>AFTER downloading upload folder Delete builder folder from server.</li>
+						<li>Upload the new builder to your server.</li>
+						<li>now again upload previously downloaded upload folder to "/elements/images/".</li>
+					</ol>
+				</p>
+
+            </section>
+
+            <section id="features">
+
+                <h2 id="draganddrop">Drag & Drop</h2>
+
+                <p>
+                    HTML Builder allows users to drag HTML blocks onto a canvas and drop them where they'd like them to appear. Once dropped onto the canvas, the position can be changed by dragging and dropping as well. Blocks can be delete individually or all blocks on the current page can be deleted in one go. 
+                </p>
+
+            </section>
+
+            <section id="">
+
+                <h2 id="contentediting">Editing content</h2>
+
+                <p>
+                    The HTML Builder script can also be used to edit written content inside each element. HTML Builder uses a rich text editor, allowing to make changes to the written content. Depending on what type of element you're editing, certain options will be disabled in the editor. certain text elements might not be editable.
+                </p>
+                
+
+            </section>
+
+            <section>
+
+                <h2 id="styleediting">Editing styles</h2>
+
+                <p>
+                    The HTML Builder script also allows for basic CSS editing. Using the built-in CSS editor, end-users can customize whatever CSS attributes the script's admin has configured. When editing a link, the end-user can point the link to either an internal page or an (external) URL.
+                </p>
+
+                <p>
+                    Which CSS attributes are active is configured through the <b>builder.js <b>editableItems</b> object.
+                </p>
+
+            </section>
+
+            <section>
+
+                <h2 id="linkediting">Editing links</h2>
+
+                <p>
+					The HTML Builder script allows user to edit links as well. To be able to edit links, firstly the link selectors will need to be added to the "editableItems" array in the <b>/js/builder.js</b> file. To edit links on the canvas, firstly select the <b>Details</b> building mode, this will allow you to select links. When selected, a "link" tab will be visible in the left panel, allowing you to either choose a page to link to or enter a URL manually.
+				</p>
+
+				<p>
+					<b>Linking within a single page</b><br>
+					When building a one-page website, you might want to link to sections within a single page rather then to a separate page. To do this, simply edit the link and use the second dropdown to choose the block you'd like to link to. The ID's to which can be linked, have to be configured within the block HTML files, and the ID attribute should be assigned to the first child element of the main container (for an example, please have a look at any of the bundled block files).<br><br>
+					<img src="assets/img/01.jpg"><br>
+				</p>
+
+            </section>
+
+            <section>
+
+                <h2 id="imageediting">Editing images</h2>
+
+                <p>
+					The HTML Builder script allows user to edit images as well. To edit images on the canvas, Select an image from canvas When selected, a "image" tab will be visible in the left panel, allowing you to either upload an image or enter a URL manually.<br>
+					- To change the image, input new image url inside url(), for example:<br>
+					url(yourdomain.com/image.jpg)<br>
+					- To remove the image, just input "url()" <br><br>
+					<img src="assets/img/02.jpg"><br>
+					
+				</p>
+
+            </section>
+			
+			<section>
+
+                <h2 id="parallaxbg">Parallax Background</h2>
+
+                <p>
+					* To make the background image parallax, set the "background-size to cover" and "background-attachment to fixed".<br>
+					<br>
+					<img src="assets/img/03.jpg"><br>
+				</p>
+
+            </section>
+
+            <section>
+
+                <h2 id="videoediting">Editing videos</h2>
+
+                <p>
+					To change  video, click on video left panel will be open here you can change vide link and other settings<br>
+					<img src="assets/img/04.png"><br>
+				</p>
+            </section>
+			<section>
+
+                <h2 id="iconediting">Editing Icons</h2>
+
+                <p>
+					To change FontAwesome icon click on any icon, left panel will open then select icon tab here you can select any fontawesome icon from list of icons<br>
+					<br>
+					<br>
+					<img src="assets/img/07.png"><br>
+				</p>
+            </section>
+
+            <section>
+
+                <h2 id="cloning">Cloning elements</h2>
+
+                <p>
+						Items which have been setup in the "editableItems" object in <b>/js/builder.js</b> can be cloned. select the item which you want to clone and finally click the clone button from the left panel. Please note that cloned items will be inserted into the canvas right next to the original item.
+					</p>
+
+            </section>
+
+            <section>
+
+                <h2 id="exporthtml">Exporting a site</h2>
+
+                
+					<p>
+						Whenever the user is happy with the final result, the created markup can be exported by click the green export button. The export feature will grab all the used HTML elements for each created page. Once all pages are completed, all the HTML files are bundled into a ZIP archive together with the other external resources like stylesheets, Javascript files and images which will be downloaded by the end user.
+						<br>
+						<br>
+						<img src="assets/img/05.png"><br>
+					</p>
+
+            </section>
+
+            <section>
+
+                <h2 id="pages">Multiple pages</h2>
+
+                <p>
+                    The HTML Builder script allows users to create multiple pages at once. To add a new page, simply click the green button labeled "+ Add" just below the current pages list. You can alter the page names as well (please use names without the .html extension, these are added automatically during the export). When exporting the markup, the pages will use the same names. To delete a page, simply click the little delete icon next to the page you'd like to delete.
+                </p>
+
+            </section>
+
+            <section>
+
+                <h2 id="responsive">Responsive views</h2>
+
+                <p>
+                    HTML Builder allows users to switch between different view modes, this to ensure the resulting page will look good on mobiles, tablets and desktop screens. To toggle between modes, use the three buttons to the left of the main toolbar.
+                </p>
+
+                <p>
+                    The screen sizes for the view modes can be configured in the <b>builder.js</b> module, by using the "responsiveModes" object.
+                </p>
+
+            </section>
+
+            <section>
+
+                <h2 id="globalblocks">Global blocks</h2>
+
+                <p>
+                    HTML Builder allows users to configure so-called "global blocks". These are blocks that maintain the same appearance and settings across different pages. This feature comes in handy when configuring navigations and footers for example. 
+                </p>
+
+                <p>
+                    Each block on the canvas has a check box labeled "Global". When checked, changes made to this block will be applied to the same block on all pages in your site, assuming those other blocks are marked as "global" as well.
+                </p>
+				<br>
+				<img src="assets/img/06.png"><br>
+
+            </section>
+			
+			<section>
+
+                <h2 id="formsettings">Form Settings</h2>
+			</section>
+			<section>
+				
+
+					<h6 id="formsetup">Form setting via Builder</h6>
+					<br>
+					<h4>Field setting</h4>
+					<h6>You can setup form fields via builder by following steps below.</h6>
+						<ul>
+							<li>darg and drop desired form section in canvas.</li>
+							<li>click on any filed, left panel will be open, in left panel click on field setting tab.</li>
+							<li>in field setting tab you will find 3 options, (field name, field placholder, and select box for whether this field is required or not</li>
+							<li>fill the all options as per your requirment and hit appy button</li>
+							<li>*Note:you can select diffirent service provider for each page if you are using multiple forms on same page.</li>
+							<li>* Note: this area is important to make mailchimp and other services work, user field name attribute as per input attribute in your mailchimp and others services forms.</li>
+						</ul>
+						<br>
+						<br>
+						<p><img src="assets/img/15.png"></p>
+						<br><br>
+					<h6>Form setting</h6>
+					<h6>You can setup form via builder by following steps below.</h6>
+						<ul>
+							<li>darg and drop desired form section in canvas.</li>
+							<li>select form wrapper by clicking on form box not on field, left panel will be open, in left panel click on form setting tab.</li>
+							<li>in form setting tab choose any service provider from select box </li>
+							<li>hit apply changes button, your form is ready</li>
+							<li>* Note: You must also select service provider and fill form data on export tab </li>
+						</ul>
+					<br>
+						<br>
+						<p><img src="assets/img/16.png"></p>
+						<br><br>
+					<h6>Form Export setting</h6>
+					<h6>You can setup form export data via builder by following steps below.</h6>
+						<ul>
+							<li>After completing your work click on export button</li>
+							<li>On export tab after filling seo settings, select form type from select box</li>
+							<li>Then select desired service provider from left menu on export tab</li>
+							<li>after selecting service provider fill in required data</li>
+							<li>* Note: you can use multiple service provider on one page or multiple page, so fill in all required services info. and hit export button</li>
+						</ul>
+						<br>
+						<br>
+						<p><img src="assets/img/17.png"></p>
+						<br><br>
+			
+			</section>
+			<section>
+						<h4>Form Type:</h4>
+						<h6 id="customform">Custom Email:</h6>
+						<p>
+							if custom email selected from form type all form submissions will be sent to the provided taget email.
+						</p>
+						<br>
+				<img src="assets/img/08.png"><br><br><br>
+			</section>
+			<section>
+						<h6 id="mailchimp">MailChimp:</h6>
+						<ul>
+							<li>for mailchimp integration following info is required:<br>
+							<li>Your API key -> get from here - <a target="_blanck" href="http://admin.mailchimp.com/account/api">mailchimp api key</a></li>
+							<li>List unique id  - <a target="_blanck" href="http://admin.mailchimp.com/lists/">mailchimp unique id</a></li>
+							<li>form should have same field name as per Mailchimp form (for filed setting follow filed setting sevtion above).</li>
+						</ul>
+						<p>
+							<br>
+				<img src="assets/img/11.png"><br><br><br>
+						</p>
+			</section>
+			<section>
+						<h6 id="campaignmonitor">Campaign Monitor:</h6>
+						<ul>
+							<li>For Campaign Monitor integration:</li>
+							<li>Your API key (change userid with your username) - https://userid.createsend.com/admin/account/</li>
+							<li>List id  - <a target="_blanck" href="https://www.campaignmonitor.com/api/getting-started/#listid">campaign monitor list id</a></li>
+							<li>form should have same field name as per campaign Monitor form (for filed setting follow filed setting sevtion above).</li>
+						</ul>
+						<p>
+							<br>
+							<img src="assets/img/13.png"><br><br><br>
+						</p>
+			</section>
+			<section>
+						<h6 id="getresponse">GetResponse:</h6>
+						<ul>
+							<li>For GetResponse integration:</li>
+							<li>Your API - <a target="_blanck" href="https://app.getresponse.com/my_api_key.html">GetResponse APY</a></li>
+							<li>Campaign namee - <a target="_blanck" href="https://app.getresponse.com/campaign_list.html">GetResponse campaign name</a></li>
+							<li>form should have same field name as per GetResponse form (for filed setting follow filed setting sevtion above).</li>
+						</ul>
+						<p>
+							<br>
+							<img src="assets/img/10.png"><br><br><br>
+						</p>
+			</section>
+			<section>
+						<h6 id="aweber">AWeber:</h6>
+						<ul>
+							<li>For AWeber integration:</li>
+							<li>Your Authcode - <a target="_blanck" href="https://aweber.com/">Your Authcode</a></li>
+							<li>List name - <a target="_blanck" href="https://www.aweber.com/users/autoresponder/manage">list name</a></li>
+							<li>form should have same field name as per AWeber form (for filed setting follow filed setting sevtion above).</li>
+						</ul>
+						<p>
+							<br>
+							<img src="assets/img/14.png"><br><br><br>
+						</p>
+			</section>
+			<section>
+						<div id="phpform">
+
+							<h4>After export form setting</h4>
+							<p>
+								If you are using one of the predefined landing pages or you exported the landing page from the builder and you want to edit the email service provider for the forms in the page simply follow these steps:<br>
+								<ol>
+									<li>Browse to the mail folder".</li>
+									<li>Open integration.php in any text editor".</li>
+									<li>In line number 2 input the email service provider that you want to use as following:<br>
+										<ul>
+											<li>"php" for Custom Email.</li>
+											<li>"dvmailchimp" for Mailchimp.</li>
+											<li>"dvCampaginMonitor" for Campaign Monitor.</li>
+											<li>"dvGetResponse" for GetResponse.</li>
+											<li>"dvAWeber" for AWeber.</li>
+											<li>"dvActiveCampaign" for Active Campaign.</li>
+											<li>"dvMailerLite" for MailerLite.</li>
+										</ul>
+									</li>
+									<li>For the used email service provider input the required information as following:<br>
+										<ul>
+											<li> replace your Email address on line number 4.</li>
+											<li> Email subject on line number 5</li>
+											<li>after that input api key and list ids for each rewuired service from line number 13 to onward</li>
+										</ul>
+									</li>
+									<li>Save integration.php to make your form ready to use </li>
+								</ol>
+
+							</p>
+						</div><!-- /.col-md-9 -->
+			</section>
+        </article>
+        <!-- END Main content -->
+    </main>
+
+
+    <!-- Footer -->
+    <footer class="site-footer">
+        <div class="container-fluid">
+            <a id="scroll-up" href="#"><i class="fa fa-angle-up"></i></a>
+
+            <div class="row">
+                <div class="col-md-6 col-sm-6">
+                    <p>Copyright &copy; <script>document.write(new Date().getFullYear())</script>. DesignsVilla All right reserved</p>
+                </div>
+                <div class="col-md-6 col-sm-6">
+                    <ul class="footer-menu">
+                        <li><a href="http://designsvilla.ticksy.com">Contact us</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- END Footer -->
+
+<!-- Scripts -->
+<script src="assets/js/theDocs.all.min.js"></script>
+</body>
+</html>
