@@ -132,9 +132,9 @@ $(document).ready(function(){
 	// Testimonial Slider
 	function starttestimonial2() {
 	   $('.testimonial-slider2').slick({
-			slidesToShow: 2,
+			slidesToShow: 4,
 			slidesToScroll: 1,	  
-			dots: false,
+			dots: true,
 			arrows: false,
 			focusOnSelect: false,
 			autoplay: true,
