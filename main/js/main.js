@@ -115,7 +115,42 @@ $(document).ready(function(){
 	
 	
 	
-	$(function(){starttestimonial1();})
+	$(function(){starttestimonial1();});
+
+	$(function () {
+
+
+        glio.init(
+            [ 'top', function () {
+                //alert('this is top.');
+                $('.test-popup-link').magnificPopup({type: 'image'});
+            }
+            ],
+            [ 'top-left', function () {
+                //alert('this is top-left');
+                $.magnificPopup.open({
+                                         items: {
+                                             src: 'img/banner/banner18.jpg'
+                                         },
+                                         type: 'image'
+                                     });
+            }
+            ],
+            [ 'top-right', function () {
+                alert('this is top-right');
+            }
+            ],
+            [ 'bottom-left', function () {
+                alert('this is bottom-left');
+            }
+            ],
+            [ 'bottom-right', function () {
+                alert('this is bottom-right');
+            }
+            ]
+        );
+    });
+
 	function starttestimonial1() {
 		$('.testimonial-slider').slick({
 			slidesToShow: 1,
