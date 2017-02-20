@@ -138,7 +138,7 @@ $(document).ready(function(){
 			arrows: false,
 			focusOnSelect: false,
 			autoplay: true,
-			autoplaySpeed: 2000,
+			autoplaySpeed: 1000,
 			responsive: [
 				{
 					breakpoint: 980,

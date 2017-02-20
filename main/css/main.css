@@ -3050,7 +3050,7 @@ button.nav-toggle{
 .section-banner-st-8 p{ color: #fff; font-size: 24px; margin:4px 0 12px; line-height: 36px; }
 
 
-.section-subscribe-st-8{ padding: 45px 0; margin-bottom: 90px; box-shadow: 0 0 16px rgba(0,0,0,0.06); }
+.section-subscribe-st-8{ padding: 45px 0; box-shadow: 0 0 16px rgba(0,0,0,0.06); }
 .section-subscribe-st-8 .subscribe-content-inner h3{
 
 	margin: 10px 0 4px; 
@@ -3148,7 +3148,7 @@ button.nav-toggle{
 
 
 
-.section-testimonials-st-8{ padding: 104px 0 120px; }
+.section-testimonials-st-8{ padding: 80px 0 120px; }
 .section-testimonials-st-8 .slick-slider{ margin-bottom: 0; }
 .section-testimonials-st-8 .testimonials-box{  padding: 80px 15px 0; cursor: move; }
 .section-testimonials-st-8 .testimonials-content{ text-align: center; background-color: #f9fafc; padding:92px 54px 63px; }
@@ -6086,7 +6086,7 @@ button.nav-toggle{
 
 	/*---------------Theme style 8---------------*/
 
-	.section-subscribe-st-8{ margin-bottom: 40px; }
+	.section-subscribe-st-8{ margin-bottom: 20px; }
 	.section-subscribe-st-8	.subscribe-content-inner{ text-align: center; }
 	.section-subscribe-st-8 form{ margin: 20px auto 0; max-width: 500px; width: 100%; }
 
@@ -6108,7 +6108,7 @@ button.nav-toggle{
 	.section-video-st-1 h4{ margin-top: 0; }
 
 
-	.section-testimonials-st-8{ padding: 60px 0; }
+	.section-testimonials-st-8{ padding: 50px 0 30px; }
 
 	.section-partners-st-8{ padding: 60px 0 30px; }
 
