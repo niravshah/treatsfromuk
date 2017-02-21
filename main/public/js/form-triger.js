@@ -243,7 +243,7 @@ $(document).ready(function() {
 			};
             
             //Ajax post data to server
-            $.post('mail/contact4.php', post_data, function(response){  
+            $.post('/lists/5da04e856c/members', post_data, function(response){
 				if(response.type == 'error'){ //load json data from server and output message     
 					output = '<div class="modal tx-left" id="myModal" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><a class="close" href="javascript:location.reload(true)">x</a><h4 class="modal-title">Ooops</h4></div><div class="modal-body"><div class="error">'+response.text+'</div></div></div></div></div>';
 				}else{

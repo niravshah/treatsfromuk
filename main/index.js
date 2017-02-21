@@ -37,6 +37,7 @@ var bcrypt = require('bcryptjs');
 var salt = bcrypt.genSaltSync(10);
 
 require('./routes/home')(app, passport);
+require('./routes/mailchimp')(app, config);
 
 // catch 404 and forward to error handler
 app.use(function (req, res, next) {
