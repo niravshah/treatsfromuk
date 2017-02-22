@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="633e5c47-c8ba-4505-b523-c10d725b0fc3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/routes/mailchimp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/routes/zendesk.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/config.js" afterPath="$PROJECT_DIR$/main/config.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/index.js" afterPath="$PROJECT_DIR$/main/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/public/js/form-triger.js" afterPath="$PROJECT_DIR$/main/public/js/form-triger.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/routes/mailchimp.js" afterPath="$PROJECT_DIR$/main/routes/mailchimp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/views/index.html" afterPath="$PROJECT_DIR$/main/views/index.html" />
     </list>
     <ignored path="treatsfromuk.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,8 +31,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main/views/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="29" column="76" lean-forward="false" selection-start-line="29" selection-start-column="76" selection-end-line="29" selection-end-column="76" />
+            <state relative-caret-position="66">
+              <caret line="257" column="43" lean-forward="false" selection-start-line="257" selection-start-column="43" selection-end-line="257" selection-end-column="43" />
               <folding>
                 <element signature="n#section#1;n#main#0;n#!!top" expanded="false" />
               </folding>
@@ -38,31 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mailchimp.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/main/routes/mailchimp.js">
+      <file leaf-file-name="zendesk.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/routes/zendesk.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="17" column="94" lean-forward="false" selection-start-line="17" selection-start-column="94" selection-end-line="17" selection-end-column="94" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="39" column="43" lean-forward="true" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/routes/home.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+            <state relative-caret-position="150">
+              <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -71,14 +53,21 @@
       <file leaf-file-name="form-triger.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main/public/js/form-triger.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="599">
-              <caret line="245" column="37" lean-forward="false" selection-start-line="245" selection-start-column="37" selection-end-line="245" selection-end-column="37" />
+            <state relative-caret-position="435">
+              <caret line="91" column="40" lean-forward="false" selection-start-line="91" selection-start-column="40" selection-end-line="91" selection-end-column="40" />
               <folding>
-                <element signature="e#3645#5747#0" expanded="false" />
-                <element signature="e#5788#7822#0" expanded="false" />
-                <element signature="e#7861#9943#0" expanded="false" />
-                <element signature="e#12385#14445#0" expanded="false" />
+                <element signature="e#198#2546#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="40" column="25" lean-forward="false" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -86,28 +75,18 @@
       <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main/config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="54" lean-forward="false" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+            <state relative-caret-position="255">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/views/layout.html">
+      <file leaf-file-name="mailchimp.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/routes/mailchimp.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/public/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1755">
-              <caret line="117" column="34" lean-forward="false" selection-start-line="117" selection-start-column="34" selection-end-line="117" selection-end-column="34" />
+            <state relative-caret-position="195">
+              <caret line="13" column="2" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="13" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -147,11 +126,12 @@
         <option value="$PROJECT_DIR$/main/public/css/main.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/main/views/layout.html" />
-        <option value="$PROJECT_DIR$/main/views/index.html" />
-        <option value="$PROJECT_DIR$/main/index.js" />
-        <option value="$PROJECT_DIR$/main/config.js" />
-        <option value="$PROJECT_DIR$/main/public/js/form-triger.js" />
         <option value="$PROJECT_DIR$/main/routes/mailchimp.js" />
+        <option value="$PROJECT_DIR$/main/config.js" />
+        <option value="$PROJECT_DIR$/main/views/index.html" />
+        <option value="$PROJECT_DIR$/main/routes/zendesk.js" />
+        <option value="$PROJECT_DIR$/main/public/js/form-triger.js" />
+        <option value="$PROJECT_DIR$/main/index.js" />
       </list>
     </option>
   </component>
@@ -751,12 +731,12 @@
       <workItem from="1487275574230" duration="292000" />
       <workItem from="1487286050338" duration="832000" />
       <workItem from="1487541729213" duration="3273000" />
-      <workItem from="1487577867923" duration="10249000" />
+      <workItem from="1487577867923" duration="11493000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14646000" />
+    <option name="totallyTimeSpent" value="15890000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="835" extended-state="6" />
@@ -913,16 +893,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/views/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="29" column="76" lean-forward="false" selection-start-line="29" selection-start-column="76" selection-end-line="29" selection-end-column="76" />
-          <folding>
-            <element signature="n#section#1;n#main#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main/routes/home.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -931,39 +901,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/index.js">
+    <entry file="file://$PROJECT_DIR$/main/routes/mailchimp.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="39" column="43" lean-forward="true" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
+        <state relative-caret-position="195">
+          <caret line="13" column="2" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="13" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="54" lean-forward="false" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="257" column="43" lean-forward="false" selection-start-line="257" selection-start-column="43" selection-end-line="257" selection-end-column="43" />
+          <folding>
+            <element signature="n#section#1;n#main#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/routes/zendesk.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main/public/js/form-triger.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="599">
-          <caret line="245" column="37" lean-forward="false" selection-start-line="245" selection-start-column="37" selection-end-line="245" selection-end-column="37" />
+        <state relative-caret-position="435">
+          <caret line="91" column="40" lean-forward="false" selection-start-line="91" selection-start-column="40" selection-end-line="91" selection-end-column="40" />
           <folding>
-            <element signature="e#3645#5747#0" expanded="false" />
-            <element signature="e#5788#7822#0" expanded="false" />
-            <element signature="e#7861#9943#0" expanded="false" />
-            <element signature="e#12385#14445#0" expanded="false" />
+            <element signature="e#198#2546#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/routes/mailchimp.js">
+    <entry file="file://$PROJECT_DIR$/main/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="17" column="94" lean-forward="false" selection-start-line="17" selection-start-column="94" selection-end-line="17" selection-end-column="94" />
+        <state relative-caret-position="134">
+          <caret line="40" column="25" lean-forward="false" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
           <folding />
         </state>
       </provider>
