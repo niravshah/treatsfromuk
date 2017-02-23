@@ -1,0 +1,9 @@
+.of-label {
+    color: #757575;
+    font-weight: normal;
+}
+
+.of-nav-active{
+    background: #757575;
+    border-radius: 5px;
+}
