@@ -39,6 +39,7 @@ var salt = bcrypt.genSaltSync(10);
 require('./routes/home')(app, passport);
 require('./routes/mailchimp')(app, config);
 require('./routes/zendesk')(app, config);
+require('./routes/payumoney')(app, config);
 
 // catch 404 and forward to error handler
 app.use(function (req, res, next) {
