@@ -48,6 +48,8 @@ app.use(function (req, res, next) {
     next(err);
 });
 
+
+
 if (env === 'dev') {
     app.use(function (err, req, res, next) {
         res.status(err.status || 500);
