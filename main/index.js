@@ -67,7 +67,7 @@ if (env === 'dev') {
     });
 }
 
-app.set('port', (process.env.PORT || 12000));
+app.set('port', (process.env.PORT || 8085));
 
 app.listen(app.get('port'), function () {
     console.log('Node app is running on port', app.get('port'));

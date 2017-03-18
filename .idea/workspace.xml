@@ -2,68 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="633e5c47-c8ba-4505-b523-c10d725b0fc3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/public/js/common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/public/js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/public/js/order.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/public/lib/backup/main.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main/public/js/main.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/allinone_carousel.js" afterPath="$PROJECT_DIR$/main/public/lib/allinone_carousel.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/bootstrap-select.min.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/bootstrap-select.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/build/build.min.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/build/build.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/builder_in_block.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/builder_in_block.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/carousel.js" afterPath="$PROJECT_DIR$/main/public/lib/carousel.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/classie.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/classie.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/countdown-triger.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/countdown-triger.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/countdown.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/countdown.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/custom.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/custom.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/demo9.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/demo9.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/dtpicker.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/dtpicker.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/flat-ui-pro.min.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/flat-ui-pro.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/flickity.pkgd.min.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/flickity.pkgd.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/form-triger.js" afterPath="$PROJECT_DIR$/main/public/lib/form-triger.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/glio.js" afterPath="$PROJECT_DIR$/main/public/lib/glio.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/glio.min.js" afterPath="$PROJECT_DIR$/main/public/lib/glio.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/incrementing.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/incrementing.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/jquery-1.11.1.min.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/jquery-1.11.1.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/jquery-ui.min.js" afterPath="$PROJECT_DIR$/main/public/lib/jquery-ui.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/jquery.ajaxchimp.min.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/jquery.ajaxchimp.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/jquery.countTo.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/jquery.countTo.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/jquery.cycle2.min.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/jquery.cycle2.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/jquery.easing.min.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/jquery.easing.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/jquery.isotope.min.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/jquery.isotope.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/jquery.js" afterPath="$PROJECT_DIR$/main/public/lib/jquery.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/jquery.magnific-popup.js" afterPath="$PROJECT_DIR$/main/public/lib/jquery.magnific-popup.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/jquery.min.js" afterPath="$PROJECT_DIR$/main/public/lib/jquery.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/jquery.nicescroll.min.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/jquery.nicescroll.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/jquery.nivo.slider.pack.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/jquery.nivo.slider.pack.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/jquery.raty-fa.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/jquery.raty-fa.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/jquery.ui.touch-punch.min.js" afterPath="$PROJECT_DIR$/main/public/lib/jquery.ui.touch-punch.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/jquery.waypoints.min.js" afterPath="$PROJECT_DIR$/main/public/lib/jquery.waypoints.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/map.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/map.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/masonry.pkgd.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/masonry.pkgd.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/modernizr.custom.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/modernizr.custom.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/moment-locale.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/moment-locale.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/navigation.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/navigation.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/onepagescroll.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/onepagescroll.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/owl.carousel.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/owl.carousel.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/parallax.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/parallax.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/pbar.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/pbar.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/rate.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/rate.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/rs-kb-init.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/rs-kb-init.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/script.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/script.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/scripts2.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/scripts2.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/snap.svg-min.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/snap.svg-min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/triger.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/triger.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/vendor/html5shiv.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/vendor/html5shiv.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/vendor/jquery.min.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/vendor/jquery.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/vendor/jquery.min.map" afterPath="$PROJECT_DIR$/main/public/lib/backup/vendor/jquery.min.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/vendor/respond.min.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/vendor/respond.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/vendor/video-js.swf" afterPath="$PROJECT_DIR$/main/public/lib/backup/vendor/video-js.swf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/main/public/js/vendor/video.js" afterPath="$PROJECT_DIR$/main/public/lib/backup/vendor/video.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/views/index.html" afterPath="$PROJECT_DIR$/main/views/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/views/layout.html" afterPath="$PROJECT_DIR$/main/views/layout.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/views/order.html" afterPath="$PROJECT_DIR$/main/views/order.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/index.js" afterPath="$PROJECT_DIR$/main/index.js" />
     </list>
     <ignored path="treatsfromuk.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -123,6 +63,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="539">
+              <caret line="69" column="41" lean-forward="false" selection-start-line="69" selection-start-column="41" selection-end-line="69" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="order.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main/views/order.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -133,11 +83,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="layout.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main/views/layout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+            <state relative-caret-position="225">
+              <caret line="15" column="72" lean-forward="true" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
               <folding />
             </state>
           </provider>
@@ -182,7 +132,6 @@
         <option value="$PROJECT_DIR$/main/public/js/form-triger.js" />
         <option value="$PROJECT_DIR$/main/routes/home.js" />
         <option value="$PROJECT_DIR$/main/public/css/custom.css" />
-        <option value="$PROJECT_DIR$/main/index.js" />
         <option value="$PROJECT_DIR$/main/routes/payumoney.js" />
         <option value="$PROJECT_DIR$/main/public/css/main.css" />
         <option value="$PROJECT_DIR$/main/views/order.html" />
@@ -192,6 +141,7 @@
         <option value="$PROJECT_DIR$/main/public/js/index.js" />
         <option value="$PROJECT_DIR$/main/views/index.html" />
         <option value="$PROJECT_DIR$/main/views/layout.html" />
+        <option value="$PROJECT_DIR$/main/index.js" />
       </list>
     </option>
   </component>
@@ -252,24 +202,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="treatsfromuk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="treatsfromuk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -859,12 +791,12 @@
       <workItem from="1487577867923" duration="12993000" />
       <workItem from="1487838017948" duration="11791000" />
       <workItem from="1489344719269" duration="1555000" />
-      <workItem from="1489429670944" duration="3331000" />
+      <workItem from="1489429670944" duration="3860000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34067000" />
+    <option name="totallyTimeSpent" value="34596000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="835" extended-state="6" />
@@ -1129,14 +1061,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main/routes/home.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1307,8 +1231,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main/views/layout.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+        <state relative-caret-position="225">
+          <caret line="15" column="72" lean-forward="true" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="69" column="41" lean-forward="false" selection-start-line="69" selection-start-column="41" selection-end-line="69" selection-end-column="41" />
           <folding />
         </state>
       </provider>
