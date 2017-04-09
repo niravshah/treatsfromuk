@@ -949,7 +949,7 @@ button.nav-toggle{
 
 .banner-text{
 	position:absolute;
-	top:50%;
+	top:60%;
 	left:0;
 	width:100%;
 	-moz-transform:translateY(-50%);
@@ -1105,7 +1105,7 @@ button.nav-toggle{
 	/* Banner Style 6 */
 
 .section-banner-st-6{
-	height:950px;
+	height:720px;
 	position:relative;
 }	
 .banner-bg-6{
@@ -6088,7 +6088,7 @@ button.nav-toggle{
 
 	.section-subscribe-st-8{ margin-bottom: 20px; }
 	.section-subscribe-st-8	.subscribe-content-inner{ text-align: center; }
-	.section-subscribe-st-8 form{ margin: 20px auto 0; max-width: 500px; width: 100%; }
+	.section-subscribe-st-8 form{ margin: 20px auto 0; max-width: 500px; width: 100%; text-align: center}
 
 	.section-product-st-8 .adventure{ padding-top: 40px; }
 	.section-product-st-8 .adventure ul{ margin:20px 0 40px; }
@@ -6431,7 +6431,7 @@ button.nav-toggle{
 		padding-right:1em;
 	}
 	.section-banner-st-6 {
-		height: 700px;
+		height: 800px;
 	}
 	.banner-app1, .banner-app2 {
 		-webkit-transform: translateY(10);
@@ -7126,6 +7126,7 @@ button.nav-toggle{
 	}
 	.banner-text{
 		text-align:center;
+		top:55%;
 	}
 	.banner-text .btn-default{
 		margin-bottom: 20px;
@@ -7152,6 +7153,7 @@ button.nav-toggle{
 	}
 	.section-banner-st-6 .banner-h1 {
 		font-size: 2.5em;
+		padding-top: 20px;
 	}
 	.section-banner-st-6 a.btn{
 		vertical-align:top;
