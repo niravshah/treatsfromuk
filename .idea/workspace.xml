@@ -2,9 +2,291 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="633e5c47-c8ba-4505-b523-c10d725b0fc3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/public/js/gmap.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/public/lib/snazzymap/snazzymap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/public/lib/snazzymap/snazzymap1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main/public/lib/snazzymap/snazzymap2.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/Untitled-2.jpg" afterPath="$PROJECT_DIR$/img/Untitled-2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/about-bg.jpg" afterPath="$PROJECT_DIR$/img/about-bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/agency-2-footer-logo.png" afterPath="$PROJECT_DIR$/img/agency-2-footer-logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/agency-2-logo.png" afterPath="$PROJECT_DIR$/img/agency-2-logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/agent-bg.jpg" afterPath="$PROJECT_DIR$/img/agent-bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/app-logo2.png" afterPath="$PROJECT_DIR$/img/app-logo2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/app-screenshot/appshot-bg1.jpg" afterPath="$PROJECT_DIR$/img/app-screenshot/appshot-bg1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/app-screenshot/appshot-img1.png" afterPath="$PROJECT_DIR$/img/app-screenshot/appshot-img1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/app-screenshot/appshot1.jpg" afterPath="$PROJECT_DIR$/img/app-screenshot/appshot1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/app-screenshot/appshot1.png" afterPath="$PROJECT_DIR$/img/app-screenshot/appshot1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/app-screenshot/appshot2.jpg" afterPath="$PROJECT_DIR$/img/app-screenshot/appshot2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/app-screenshot/appshot2.png" afterPath="$PROJECT_DIR$/img/app-screenshot/appshot2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/app-screenshot/appshot3.jpg" afterPath="$PROJECT_DIR$/img/app-screenshot/appshot3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/app-screenshot/appshot3.png" afterPath="$PROJECT_DIR$/img/app-screenshot/appshot3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/app-screenshot/appshot4.jpg" afterPath="$PROJECT_DIR$/img/app-screenshot/appshot4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/app-screenshot/appshot4.png" afterPath="$PROJECT_DIR$/img/app-screenshot/appshot4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/app-screenshot/appshot5.png" afterPath="$PROJECT_DIR$/img/app-screenshot/appshot5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/author/author-bg.jpg" afterPath="$PROJECT_DIR$/img/author/author-bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner-slider/slide1.png" afterPath="$PROJECT_DIR$/img/banner-slider/slide1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner-slider/slide2.png" afterPath="$PROJECT_DIR$/img/banner-slider/slide2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/404-bg1.jpg" afterPath="$PROJECT_DIR$/img/banner/404-bg1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/about4.jpg" afterPath="$PROJECT_DIR$/img/banner/about4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/app3.png" afterPath="$PROJECT_DIR$/img/banner/app3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/app4.png" afterPath="$PROJECT_DIR$/img/banner/app4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/app5.png" afterPath="$PROJECT_DIR$/img/banner/app5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/app6.png" afterPath="$PROJECT_DIR$/img/banner/app6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/banner-bg.png" afterPath="$PROJECT_DIR$/img/banner/banner-bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/banner1.jpg" afterPath="$PROJECT_DIR$/img/banner/banner1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/banner10.jpg" afterPath="$PROJECT_DIR$/img/banner/banner10.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/banner11.jpg" afterPath="$PROJECT_DIR$/img/banner/banner11.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/banner12.jpg" afterPath="$PROJECT_DIR$/img/banner/banner12.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/banner13.jpg" afterPath="$PROJECT_DIR$/img/banner/banner13.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/banner14.jpg" afterPath="$PROJECT_DIR$/img/banner/banner14.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/banner15.jpg" afterPath="$PROJECT_DIR$/img/banner/banner15.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/banner16.jpg" afterPath="$PROJECT_DIR$/img/banner/banner16.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/banner17.jpg" afterPath="$PROJECT_DIR$/img/banner/banner17.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/banner19.jpg" afterPath="$PROJECT_DIR$/img/banner/banner19.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/banner2.jpg" afterPath="$PROJECT_DIR$/img/banner/banner2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/banner20.jpg" afterPath="$PROJECT_DIR$/img/banner/banner20.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/banner21.jpg" afterPath="$PROJECT_DIR$/img/banner/banner21.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/banner22.jpg" afterPath="$PROJECT_DIR$/img/banner/banner22.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/banner23.jpg" afterPath="$PROJECT_DIR$/img/banner/banner23.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/banner25.png" afterPath="$PROJECT_DIR$/img/banner/banner25.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/banner3.jpg" afterPath="$PROJECT_DIR$/img/banner/banner3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/banner4.jpg" afterPath="$PROJECT_DIR$/img/banner/banner4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/banner5.jpg" afterPath="$PROJECT_DIR$/img/banner/banner5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/banner7.jpg" afterPath="$PROJECT_DIR$/img/banner/banner7.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/banner8.jpg" afterPath="$PROJECT_DIR$/img/banner/banner8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/banner9.jpg" afterPath="$PROJECT_DIR$/img/banner/banner9.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/book.png" afterPath="$PROJECT_DIR$/img/banner/book.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/callout1.jpg" afterPath="$PROJECT_DIR$/img/banner/callout1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/callout2.jpg" afterPath="$PROJECT_DIR$/img/banner/callout2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/com-soon-bg1.jpg" afterPath="$PROJECT_DIR$/img/banner/com-soon-bg1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/getappbg.jpg" afterPath="$PROJECT_DIR$/img/banner/getappbg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/packagebg.jpg" afterPath="$PROJECT_DIR$/img/banner/packagebg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/partnerbg.jpg" afterPath="$PROJECT_DIR$/img/banner/partnerbg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/polygon.jpg" afterPath="$PROJECT_DIR$/img/banner/polygon.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/productbg.jpg" afterPath="$PROJECT_DIR$/img/banner/productbg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/slide1.jpg" afterPath="$PROJECT_DIR$/img/banner/slide1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/banner/travel.jpg" afterPath="$PROJECT_DIR$/img/banner/travel.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/bg/Beauty.jpg" afterPath="$PROJECT_DIR$/img/bg/Beauty.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/bg/Charity.jpg" afterPath="$PROJECT_DIR$/img/bg/Charity.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/bg/Construction-v2.jpg" afterPath="$PROJECT_DIR$/img/bg/Construction-v2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/bg/Corporate-v1-1.jpg" afterPath="$PROJECT_DIR$/img/bg/Corporate-v1-1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/bg/Corporate-v1-2.jpg" afterPath="$PROJECT_DIR$/img/bg/Corporate-v1-2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/bg/Corporate-v1-3.jpg" afterPath="$PROJECT_DIR$/img/bg/Corporate-v1-3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/bg/Corporate-v1-4.jpg" afterPath="$PROJECT_DIR$/img/bg/Corporate-v1-4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/bg/Corporate-v2.jpg" afterPath="$PROJECT_DIR$/img/bg/Corporate-v2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/bg/Education.jpg" afterPath="$PROJECT_DIR$/img/bg/Education.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/bg/Event.jpg" afterPath="$PROJECT_DIR$/img/bg/Event.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/bg/Product.jpg" afterPath="$PROJECT_DIR$/img/bg/Product.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/bg/app-1-1.jpg" afterPath="$PROJECT_DIR$/img/bg/app-1-1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/bg/app-1-Video-Background.jpg" afterPath="$PROJECT_DIR$/img/bg/app-1-Video-Background.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/bg/app-2.jpg" afterPath="$PROJECT_DIR$/img/bg/app-2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/bg/ebook.jpg" afterPath="$PROJECT_DIR$/img/bg/ebook.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/bg/finance.jpg" afterPath="$PROJECT_DIR$/img/bg/finance.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/bg/food-1.jpg" afterPath="$PROJECT_DIR$/img/bg/food-1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/bg/food-2.jpg" afterPath="$PROJECT_DIR$/img/bg/food-2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/bg/gym.jpg" afterPath="$PROJECT_DIR$/img/bg/gym.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/blog/blog-bg1.jpg" afterPath="$PROJECT_DIR$/img/blog/blog-bg1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/book-img1.jpg" afterPath="$PROJECT_DIR$/img/book-img1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/causes/cause-bg.jpg" afterPath="$PROJECT_DIR$/img/causes/cause-bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/charity-logo.png" afterPath="$PROJECT_DIR$/img/charity-logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/construction-footer-logo.png" afterPath="$PROJECT_DIR$/img/construction-footer-logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/construction-footer-logo2.png" afterPath="$PROJECT_DIR$/img/construction-footer-logo2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/construction-logo.png" afterPath="$PROJECT_DIR$/img/construction-logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/construction-logo2.png" afterPath="$PROJECT_DIR$/img/construction-logo2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/contact-bg.jpg" afterPath="$PROJECT_DIR$/img/contact-bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/corporate-footer-logo.png" afterPath="$PROJECT_DIR$/img/corporate-footer-logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/corporate-logo1.png" afterPath="$PROJECT_DIR$/img/corporate-logo1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/corporate-logo2.png" afterPath="$PROJECT_DIR$/img/corporate-logo2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/countup-bg.jpg" afterPath="$PROJECT_DIR$/img/countup-bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/countup/countup-bg1.jpg" afterPath="$PROJECT_DIR$/img/countup/countup-bg1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/countup/countup-bg2.jpg" afterPath="$PROJECT_DIR$/img/countup/countup-bg2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/ebook-footer-logo.png" afterPath="$PROJECT_DIR$/img/ebook-footer-logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/ebook-logo.png" afterPath="$PROJECT_DIR$/img/ebook-logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/education.png" afterPath="$PROJECT_DIR$/img/education.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/event-logo.png" afterPath="$PROJECT_DIR$/img/event-logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/feature/feature7.png" afterPath="$PROJECT_DIR$/img/feature/feature7.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/finance-footer-logo.png" afterPath="$PROJECT_DIR$/img/finance-footer-logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/finance-logo.png" afterPath="$PROJECT_DIR$/img/finance-logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/footer-bg.jpg" afterPath="$PROJECT_DIR$/img/footer-bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/footer-logo.png" afterPath="$PROJECT_DIR$/img/footer-logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/footer/footer-bg1.jpg" afterPath="$PROJECT_DIR$/img/footer/footer-bg1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/footer/footer-bg2.png" afterPath="$PROJECT_DIR$/img/footer/footer-bg2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/footer/footer-bg3.png" afterPath="$PROJECT_DIR$/img/footer/footer-bg3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/get-product-bg2.jpg" afterPath="$PROJECT_DIR$/img/get-product-bg2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/headphone-footer-logo.png" afterPath="$PROJECT_DIR$/img/headphone-footer-logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/headphone-logo.png" afterPath="$PROJECT_DIR$/img/headphone-logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/headphone/headphone-bg1.jpg" afterPath="$PROJECT_DIR$/img/headphone/headphone-bg1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/headphone/headphone-bg2.jpg" afterPath="$PROJECT_DIR$/img/headphone/headphone-bg2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/headphone/headphone-bg3.jpg" afterPath="$PROJECT_DIR$/img/headphone/headphone-bg3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/headphone/headphone-bg4.jpg" afterPath="$PROJECT_DIR$/img/headphone/headphone-bg4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/headphone/headphone-bg5.jpg" afterPath="$PROJECT_DIR$/img/headphone/headphone-bg5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/headphone/headphone-price1.png" afterPath="$PROJECT_DIR$/img/headphone/headphone-price1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/headphone/headphone-price2.png" afterPath="$PROJECT_DIR$/img/headphone/headphone-price2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/headphone/headphone-price3.png" afterPath="$PROJECT_DIR$/img/headphone/headphone-price3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/headphone/headphone-price4.png" afterPath="$PROJECT_DIR$/img/headphone/headphone-price4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/headphone/headphone-price5.png" afterPath="$PROJECT_DIR$/img/headphone/headphone-price5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/android.png" afterPath="$PROJECT_DIR$/img/icons/android.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/app-store.png" afterPath="$PROJECT_DIR$/img/icons/app-store.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/app-store2.png" afterPath="$PROJECT_DIR$/img/icons/app-store2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/apple.png" afterPath="$PROJECT_DIR$/img/icons/apple.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/arrow.png" afterPath="$PROJECT_DIR$/img/icons/arrow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/arrow2.png" afterPath="$PROJECT_DIR$/img/icons/arrow2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/arrow3.png" afterPath="$PROJECT_DIR$/img/icons/arrow3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/arrow4.png" afterPath="$PROJECT_DIR$/img/icons/arrow4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/basket.png" afterPath="$PROJECT_DIR$/img/icons/basket.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/basket2.png" afterPath="$PROJECT_DIR$/img/icons/basket2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/camera.png" afterPath="$PROJECT_DIR$/img/icons/camera.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/clock.png" afterPath="$PROJECT_DIR$/img/icons/clock.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/comment.png" afterPath="$PROJECT_DIR$/img/icons/comment.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/comment2.png" afterPath="$PROJECT_DIR$/img/icons/comment2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/cosmetics.png" afterPath="$PROJECT_DIR$/img/icons/cosmetics.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/cross.png" afterPath="$PROJECT_DIR$/img/icons/cross.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/desktop1.png" afterPath="$PROJECT_DIR$/img/icons/desktop1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/desktop2.png" afterPath="$PROJECT_DIR$/img/icons/desktop2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/edit.png" afterPath="$PROJECT_DIR$/img/icons/edit.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/flag.png" afterPath="$PROJECT_DIR$/img/icons/flag.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/g-play.png" afterPath="$PROJECT_DIR$/img/icons/g-play.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/hairdress.png" afterPath="$PROJECT_DIR$/img/icons/hairdress.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/hands.png" afterPath="$PROJECT_DIR$/img/icons/hands.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/heart.png" afterPath="$PROJECT_DIR$/img/icons/heart.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/icon-services.png" afterPath="$PROJECT_DIR$/img/icons/icon-services.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/icon1.png" afterPath="$PROJECT_DIR$/img/icons/icon1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/icon10.png" afterPath="$PROJECT_DIR$/img/icons/icon10.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/icon11.png" afterPath="$PROJECT_DIR$/img/icons/icon11.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/icon12.png" afterPath="$PROJECT_DIR$/img/icons/icon12.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/icon13.png" afterPath="$PROJECT_DIR$/img/icons/icon13.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/icon14.png" afterPath="$PROJECT_DIR$/img/icons/icon14.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/icon2.png" afterPath="$PROJECT_DIR$/img/icons/icon2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/icon3.png" afterPath="$PROJECT_DIR$/img/icons/icon3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/icon4.png" afterPath="$PROJECT_DIR$/img/icons/icon4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/icon5.png" afterPath="$PROJECT_DIR$/img/icons/icon5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/icon6.png" afterPath="$PROJECT_DIR$/img/icons/icon6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/icon7.png" afterPath="$PROJECT_DIR$/img/icons/icon7.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/icon8.png" afterPath="$PROJECT_DIR$/img/icons/icon8.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/icon9.png" afterPath="$PROJECT_DIR$/img/icons/icon9.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/key.png" afterPath="$PROJECT_DIR$/img/icons/key.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/laptop.png" afterPath="$PROJECT_DIR$/img/icons/laptop.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/map-marker.png" afterPath="$PROJECT_DIR$/img/icons/map-marker.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/massage.png" afterPath="$PROJECT_DIR$/img/icons/massage.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/menu.png" afterPath="$PROJECT_DIR$/img/icons/menu.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/place.png" afterPath="$PROJECT_DIR$/img/icons/place.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/play-store.png" afterPath="$PROJECT_DIR$/img/icons/play-store.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/refresh.png" afterPath="$PROJECT_DIR$/img/icons/refresh.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/rocket.png" afterPath="$PROJECT_DIR$/img/icons/rocket.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/staff.png" afterPath="$PROJECT_DIR$/img/icons/staff.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/tick.png" afterPath="$PROJECT_DIR$/img/icons/tick.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/title-bg1.png" afterPath="$PROJECT_DIR$/img/icons/title-bg1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/title-bg2.png" afterPath="$PROJECT_DIR$/img/icons/title-bg2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/icons/window.png" afterPath="$PROJECT_DIR$/img/icons/window.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/logo-blue.png" afterPath="$PROJECT_DIR$/img/logo-blue.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/logo-green.png" afterPath="$PROJECT_DIR$/img/logo-green.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/logo-lgreen.png" afterPath="$PROJECT_DIR$/img/logo-lgreen.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/logo-pink.png" afterPath="$PROJECT_DIR$/img/logo-pink.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/logo-red.png" afterPath="$PROJECT_DIR$/img/logo-red.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/logo-travel.png" afterPath="$PROJECT_DIR$/img/logo-travel.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/logo.png" afterPath="$PROJECT_DIR$/img/logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/map-icon.png" afterPath="$PROJECT_DIR$/img/map-icon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/package-bg.jpg" afterPath="$PROJECT_DIR$/img/package-bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/package-bg2.jpg" afterPath="$PROJECT_DIR$/img/package-bg2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partner1.jpg" afterPath="$PROJECT_DIR$/img/partner1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partner2.jpg" afterPath="$PROJECT_DIR$/img/partner2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/bata.jpg" afterPath="$PROJECT_DIR$/img/partners/bata.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/beadmin.jpg" afterPath="$PROJECT_DIR$/img/partners/beadmin.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/brand.jpg" afterPath="$PROJECT_DIR$/img/partners/brand.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/brand2.jpg" afterPath="$PROJECT_DIR$/img/partners/brand2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/brand3.jpg" afterPath="$PROJECT_DIR$/img/partners/brand3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/bronxs.jpg" afterPath="$PROJECT_DIR$/img/partners/bronxs.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/bronxs2.jpg" afterPath="$PROJECT_DIR$/img/partners/bronxs2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/bronxs3.jpg" afterPath="$PROJECT_DIR$/img/partners/bronxs3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/cupcakery.jpg" afterPath="$PROJECT_DIR$/img/partners/cupcakery.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/cupcakery2.jpg" afterPath="$PROJECT_DIR$/img/partners/cupcakery2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/cupcakery3.jpg" afterPath="$PROJECT_DIR$/img/partners/cupcakery3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/helpme.jpg" afterPath="$PROJECT_DIR$/img/partners/helpme.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/listing.jpg" afterPath="$PROJECT_DIR$/img/partners/listing.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/narosha.jpg" afterPath="$PROJECT_DIR$/img/partners/narosha.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/national.jpg" afterPath="$PROJECT_DIR$/img/partners/national.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/national2.jpg" afterPath="$PROJECT_DIR$/img/partners/national2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/national3.jpg" afterPath="$PROJECT_DIR$/img/partners/national3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/openheart.jpg" afterPath="$PROJECT_DIR$/img/partners/openheart.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/partner1.png" afterPath="$PROJECT_DIR$/img/partners/partner1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/partner10.png" afterPath="$PROJECT_DIR$/img/partners/partner10.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/partner11.png" afterPath="$PROJECT_DIR$/img/partners/partner11.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/partner12.png" afterPath="$PROJECT_DIR$/img/partners/partner12.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/partner13.png" afterPath="$PROJECT_DIR$/img/partners/partner13.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/partner14.png" afterPath="$PROJECT_DIR$/img/partners/partner14.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/partner15.png" afterPath="$PROJECT_DIR$/img/partners/partner15.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/partner16.png" afterPath="$PROJECT_DIR$/img/partners/partner16.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/partner17.png" afterPath="$PROJECT_DIR$/img/partners/partner17.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/partner19.png" afterPath="$PROJECT_DIR$/img/partners/partner19.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/partner2.png" afterPath="$PROJECT_DIR$/img/partners/partner2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/partner20.png" afterPath="$PROJECT_DIR$/img/partners/partner20.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/partner21.png" afterPath="$PROJECT_DIR$/img/partners/partner21.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/partner22.png" afterPath="$PROJECT_DIR$/img/partners/partner22.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/partner24.png" afterPath="$PROJECT_DIR$/img/partners/partner24.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/partner25.png" afterPath="$PROJECT_DIR$/img/partners/partner25.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/partner26.png" afterPath="$PROJECT_DIR$/img/partners/partner26.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/partner3.jpg" afterPath="$PROJECT_DIR$/img/partners/partner3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/partner3.png" afterPath="$PROJECT_DIR$/img/partners/partner3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/partner4.png" afterPath="$PROJECT_DIR$/img/partners/partner4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/partner5.png" afterPath="$PROJECT_DIR$/img/partners/partner5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/partner6.png" afterPath="$PROJECT_DIR$/img/partners/partner6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/partner7.png" afterPath="$PROJECT_DIR$/img/partners/partner7.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/partner8.png" afterPath="$PROJECT_DIR$/img/partners/partner8.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/partner9.png" afterPath="$PROJECT_DIR$/img/partners/partner9.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/qoloform.jpg" afterPath="$PROJECT_DIR$/img/partners/qoloform.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/quare.jpg" afterPath="$PROJECT_DIR$/img/partners/quare.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/seekout.jpg" afterPath="$PROJECT_DIR$/img/partners/seekout.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/sparonio.jpg" afterPath="$PROJECT_DIR$/img/partners/sparonio.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/sparonio2.jpg" afterPath="$PROJECT_DIR$/img/partners/sparonio2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/partners/sparonio3.jpg" afterPath="$PROJECT_DIR$/img/partners/sparonio3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/phone-repair-logo.png" afterPath="$PROJECT_DIR$/img/phone-repair-logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/portfolio-bg.jpg" afterPath="$PROJECT_DIR$/img/portfolio-bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/real-footer-logo.png" afterPath="$PROJECT_DIR$/img/real-footer-logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/real-logo.png" afterPath="$PROJECT_DIR$/img/real-logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/resume-logo.png" afterPath="$PROJECT_DIR$/img/resume-logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/seo-footer-logo.png" afterPath="$PROJECT_DIR$/img/seo-footer-logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/seo-logo.png" afterPath="$PROJECT_DIR$/img/seo-logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/services-img.png" afterPath="$PROJECT_DIR$/img/services-img.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/shadow1.png" afterPath="$PROJECT_DIR$/img/shadow1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/shop-logo.png" afterPath="$PROJECT_DIR$/img/shop-logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/signature.png" afterPath="$PROJECT_DIR$/img/signature.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/subscribe/subscribe-bg1.jpg" afterPath="$PROJECT_DIR$/img/subscribe/subscribe-bg1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/testimonial-bg.jpg" afterPath="$PROJECT_DIR$/img/testimonial-bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/testimonial-bg2.jpg" afterPath="$PROJECT_DIR$/img/testimonial-bg2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/testimonial/arrow-left1.png" afterPath="$PROJECT_DIR$/img/testimonial/arrow-left1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/testimonial/arrow-left2.png" afterPath="$PROJECT_DIR$/img/testimonial/arrow-left2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/testimonial/arrow-right1.png" afterPath="$PROJECT_DIR$/img/testimonial/arrow-right1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/testimonial/arrow-right2.png" afterPath="$PROJECT_DIR$/img/testimonial/arrow-right2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/testimonial/testimonial-bg1.jpg" afterPath="$PROJECT_DIR$/img/testimonial/testimonial-bg1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/testimonial/testimonial-bg2.jpg" afterPath="$PROJECT_DIR$/img/testimonial/testimonial-bg2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/tfu-1.png" afterPath="$PROJECT_DIR$/img/tfu-1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/twitter-bg.jpg" afterPath="$PROJECT_DIR$/img/twitter-bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/video-arrow.png" afterPath="$PROJECT_DIR$/img/video-arrow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/video-arrow2.png" afterPath="$PROJECT_DIR$/img/video-arrow2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/video-icon.png" afterPath="$PROJECT_DIR$/img/video-icon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/video-icon2.png" afterPath="$PROJECT_DIR$/img/video-icon2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/video-icon3.png" afterPath="$PROJECT_DIR$/img/video-icon3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/video-icon4.png" afterPath="$PROJECT_DIR$/img/video-icon4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/video-icon5.png" afterPath="$PROJECT_DIR$/img/video-icon5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/video-icon6.png" afterPath="$PROJECT_DIR$/img/video-icon6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/video-icon7.png" afterPath="$PROJECT_DIR$/img/video-icon7.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/video-icon8.png" afterPath="$PROJECT_DIR$/img/video-icon8.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/video-img11.jpg" afterPath="$PROJECT_DIR$/img/video-img11.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/video-img4.jpg" afterPath="$PROJECT_DIR$/img/video-img4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/video-img5.jpg" afterPath="$PROJECT_DIR$/img/video-img5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/video-img6.jpg" afterPath="$PROJECT_DIR$/img/video-img6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/video-img8.jpg" afterPath="$PROJECT_DIR$/img/video-img8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/why-choose.jpg" afterPath="$PROJECT_DIR$/img/why-choose.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/work/01.jpg" afterPath="$PROJECT_DIR$/img/work/01.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/work/02.jpg" afterPath="$PROJECT_DIR$/img/work/02.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/work/03.jpg" afterPath="$PROJECT_DIR$/img/work/03.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/work/04.jpg" afterPath="$PROJECT_DIR$/img/work/04.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/work/05.jpg" afterPath="$PROJECT_DIR$/img/work/05.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/work/product10.jpg" afterPath="$PROJECT_DIR$/img/work/product10.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main/img/work/product9.jpg" afterPath="$PROJECT_DIR$/img/work/product9.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/package.json" afterPath="$PROJECT_DIR$/main/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/public/css/main.css" afterPath="$PROJECT_DIR$/main/public/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/views/index.html" afterPath="$PROJECT_DIR$/main/views/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/views/layout.html" afterPath="$PROJECT_DIR$/main/views/layout.html" />
     </list>
     <ignored path="treatsfromuk.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,17 +306,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main/views/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="12" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="19" />
+            <state relative-caret-position="300">
+              <caret line="50" column="108" lean-forward="false" selection-start-line="50" selection-start-column="108" selection-end-line="50" selection-end-column="108" />
               <folding>
+                <element signature="n#section#0;n#main#0;n#!!top" expanded="false" />
                 <element signature="n#section#1;n#main#0;n#!!top" expanded="false" />
                 <element signature="n#section#2;n#main#0;n#!!top" expanded="false" />
-                <element signature="n#section#3;n#main#0;n#!!top" expanded="false" />
-                <element signature="n#section#4;n#main#0;n#!!top" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/public/js/common.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="31" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="31" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -69,21 +360,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/routes/home.js">
+      <file leaf-file-name="layout.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/views/layout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="38" />
+            <state relative-caret-position="555">
+              <caret line="72" column="41" lean-forward="false" selection-start-line="72" selection-start-column="41" selection-end-line="72" selection-end-column="41" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/main/views/layout.html">
+      <file leaf-file-name="gmap.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/public/js/gmap.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="33" />
+              <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/routes/home.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -135,10 +436,11 @@
         <option value="$PROJECT_DIR$/main/public/js/common.js" />
         <option value="$PROJECT_DIR$/main/public/js/index.js" />
         <option value="$PROJECT_DIR$/main/index.js" />
-        <option value="$PROJECT_DIR$/main/views/layout.html" />
-        <option value="$PROJECT_DIR$/main/views/index.html" />
         <option value="$PROJECT_DIR$/main/public/css/main.css" />
         <option value="$PROJECT_DIR$/main/package.json" />
+        <option value="$PROJECT_DIR$/main/views/layout.html" />
+        <option value="$PROJECT_DIR$/main/public/js/gmap.js" />
+        <option value="$PROJECT_DIR$/main/views/index.html" />
       </list>
     </option>
   </component>
@@ -188,6 +490,118 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="treatsfromuk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="treatsfromuk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="treatsfromuk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="treatsfromuk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="treatsfromuk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="treatsfromuk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="treatsfromuk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="treatsfromuk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="treatsfromuk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="treatsfromuk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="treatsfromuk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="treatsfromuk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -206,19 +620,19 @@
     <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/main/public/js" />
-      <recent name="$PROJECT_DIR$/main/public/lib/backup" />
-      <recent name="$PROJECT_DIR$/main/public/lib" />
-      <recent name="$PROJECT_DIR$/main/public" />
-      <recent name="$PROJECT_DIR$/artwork" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/main/public/lib/backup" />
       <recent name="$PROJECT_DIR$/main/public/css" />
       <recent name="$PROJECT_DIR$/main" />
       <recent name="$PROJECT_DIR$/main/routes" />
       <recent name="$PROJECT_DIR$/main/css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/main/public/js" />
+      <recent name="$PROJECT_DIR$/main/public/lib/backup" />
+      <recent name="$PROJECT_DIR$/main/public/lib" />
+      <recent name="$PROJECT_DIR$/main/public" />
     </key>
   </component>
   <component name="RunManager">
@@ -548,12 +962,56 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -619,10 +1077,40 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
     <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
       <method />
     </configuration>
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
       <method />
     </configuration>
   </component>
@@ -659,12 +1147,12 @@
       <workItem from="1489429670944" duration="9872000" />
       <workItem from="1491731720224" duration="579000" />
       <workItem from="1491941328244" duration="699000" />
-      <workItem from="1492165949958" duration="594000" />
+      <workItem from="1492165949958" duration="1688000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42480000" />
+    <option name="totallyTimeSpent" value="43574000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="835" extended-state="6" />
@@ -681,7 +1169,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34309623" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34309623" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28183118" sideWeight="0.49511856" order="0" side_tool="false" content_ui="combo" />
@@ -715,26 +1203,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/main/routes/mailchimp.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="2" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="13" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/views/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="62" selection-end-column="6" />
-          <folding>
-            <element signature="n#section#1;n#main#0;n#!!top" expanded="false" />
-            <element signature="n#section#2;n#main#0;n#!!top" expanded="false" />
-            <element signature="n#section#3;n#main#0;n#!!top" expanded="false" />
-            <element signature="n#section#4;n#main#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main/routes/zendesk.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -799,10 +1267,9 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="n#section#0;n#main#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#main#0;n#!!top" expanded="false" />
             <element signature="n#section#2;n#main#0;n#!!top" expanded="false" />
-            <element signature="n#section#3;n#main#0;n#!!top" expanded="false" />
-            <element signature="n#section#4;n#main#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -985,13 +1452,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/public/js/common.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="31" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main/public/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -1051,32 +1511,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/views/index.html">
+    <entry file="file://$PROJECT_DIR$/main/public/js/common.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="12" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="19" />
-          <folding>
-            <element signature="n#section#1;n#main#0;n#!!top" expanded="false" />
-            <element signature="n#section#2;n#main#0;n#!!top" expanded="false" />
-            <element signature="n#section#3;n#main#0;n#!!top" expanded="false" />
-            <element signature="n#section#4;n#main#0;n#!!top" expanded="false" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="31" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main/routes/home.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="38" />
+        <state relative-caret-position="120">
+          <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main/views/layout.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="33" />
+        <state relative-caret-position="555">
+          <caret line="72" column="41" lean-forward="false" selection-start-line="72" selection-start-column="41" selection-end-line="72" selection-end-column="41" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/public/lib/snazzymap/snazzymap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="39" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/public/js/gmap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="50" column="108" lean-forward="false" selection-start-line="50" selection-start-column="108" selection-end-line="50" selection-end-column="108" />
+          <folding>
+            <element signature="n#section#0;n#main#0;n#!!top" expanded="false" />
+            <element signature="n#section#1;n#main#0;n#!!top" expanded="false" />
+            <element signature="n#section#2;n#main#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
