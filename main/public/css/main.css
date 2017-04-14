@@ -3089,7 +3089,7 @@ button.nav-toggle{
 .section-product-st-8{ padding: 30px 0; background-color:#f9fafc;}
 
 .section-product-st-8 .adventure{ padding-top: 80px; }
-.section-product-st-8 .adventure ul{ margin-top: 56px; padding: 0; }
+.section-product-st-8 .adventure ul{ margin-top: 160px; padding: 0; }
 .section-product-st-8 .adventure ul li{ list-style-type: none; text-align: right; line-height: 100px; position: relative; padding:10px 120px 20px 0; margin-bottom: 32px; }
 .section-product-st-8 .adventure ul li:first-child,.section-product-st-8 .adventure ul li:last-child{ margin-right: -40px; }
 .section-product-st-8 .adventure ul li:after{ content: ""; width: 220px; height: 1px; z-index: 600; background-color: #01c1f0; position: absolute; right: 0; top: 50px; }
