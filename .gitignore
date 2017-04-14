@@ -78,5 +78,3 @@ jspm_packages
 
 /bower_components/
 /main/node_modules/
-
-config.json
