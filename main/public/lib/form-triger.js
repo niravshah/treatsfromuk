@@ -55,8 +55,9 @@ $(document).ready(function() {
         }
     });
 
-    $("#submit_btn2").click(function() {
+    $("#submit_btn2").click(function(e) {
 
+        e.preventDefault();
         var proceed = true;
         //simple validation at client's end
         //loop through each field and we simply change border color to red for invalid fields

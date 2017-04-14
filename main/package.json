@@ -4,13 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "encrypt": "encrypt config.js config.js.cast5",
+    "decrypt": "decrypt config.js.cast5 config.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.16.1",
+    "config-leaf": "^0.3.0",
     "cookie-parser": "^1.4.3",
     "express": "^4.13.4",
     "mailchimp-api-v3": "^1.7.0",
@@ -22,4 +25,3 @@
     "zendesk-node-api": "^1.2.0"
   }
 }
-`
