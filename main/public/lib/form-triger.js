@@ -40,15 +40,12 @@ $(document).ready(function() {
 
             //Ajax post data to server
             $.post('/mailgun/new', post_data, function(response){
-                if(response.type == 'error'){ //load json data from server and output message
-                    output = '<div class="modal tx-left" id="myModal" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><a class="close" href="javascript:location.reload(true)">x</a><h4 class="modal-title">Ooops</h4></div><div class="modal-body"><div class="error">'+response.text+'</div></div></div></div></div>';
-                }else{
-
-                    output = '<div class="modal tx-left" id="myModal" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><a class="close" href="javascript:location.reload(true)">x</a><h4 class="modal-title">THANK YOU!</h4></div><div class="modal-body"><div id="overlay_form" class="success">'+response.text+'</div></div></div></div></div>';
-
-                }
                 $("#contact_form2").hide();
-                $("#contact_results").text('THANK YOU').show();
+                if(response.type == 'error'){
+                    $("#contact_results").text('Sorry we can not send your message at this time.').show();
+                }else{
+                    $("#contact_results").text('Thank You. Your message has been sent. We will be in touch in the next 48 hours.').show();
+                }
             }, 'json');
         }
     });
