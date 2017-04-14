@@ -26,6 +26,8 @@
                             </div> <!-- ../logo -->
                         </div>
                         <ul class="list-style-none menu pull-right">
+                            <li><a href="/">Home</a></li>
+                            <li><a class="special" href="/special-order">Bulk Orders</a></li>
                             <li><a href="#contact-us">Contact Us</a></li>
                         </ul>
                     </div><!-- ../menu-container -->
@@ -34,139 +36,153 @@
         </div>
     </div>
 </header>
-<div class="section-banner-st-6 banner-bg-6">
-    <div id="of-home"class="banner-text">
-        <div class="container">
-            <div class="row well md-text-black">
-                <ul class="nav nav-pills nav-justified">
-                    <li class="nav-item of-nav-active">
-                        <a class="nav-link md-text-white" href="#">1. Register</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">2. Make Payment</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">3. Shipping Details & Preferences</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="row">
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                    <div class="row well md-mr-20 sm-mr-10">
-                        <fieldset class="form-group">
-                            <legend>A. Create an Account</legend>
-                            <div class="form-group">
-                                <label for="of-email" class="of-label">Email Address</label>
-                                <input type="email" class="form-control" id="of-email"
-                                       aria-describedby="emailHelp" placeholder="Enter email">
-                            </div>
-                            <div class="form-group">
-                                <label for="of-password" class="of-label">Confirm Email</label>
-                                <input type="password" class="form-control" id="of-password"
-                                       placeholder="Confirm Email Address">
-                            </div>
-                        </fieldset>
-                    </div>
-                </div>
-                <div class="col-md-6 col-sm-6 col-xs-12">
-                    <div class="row well">
-                        <fieldset class="form-group">
-                            <legend>B. Select your Subscription</legend>
-                            <div class="col-md-6">
-                                <div class="form-check">
-                                    <label class="form-check-label of-label">
-                                        <input type="radio" class="form-check-input"
-                                               name="orderTypeOption" id="optionsRadios1"
-                                               value="option1"
-                                               checked>
-                                         3 Months
-                                    </label>
-                                    <div class="well"></div>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="form-check">
-                                    <label class="form-check-label of-label">
-                                        <input type="radio" class="form-check-input"
-                                               name="orderTypeOption" id="optionsRadios2"
-                                               value="option2">
-                                         6 Months
-                                    </label>
-                                    <div class="well"></div>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="form-check">
-                                    <label class="form-check-label of-label">
-                                        <input type="radio" class="form-check-input"
-                                               name="orderTypeOption" id="optionsRadios3"
-                                               value="option3">
-                                        Trial Box
-                                    </label>
-                                    <div class="well"></div>
-                                </div>
-                            </div>
-                        </fieldset>
-                        <div class="well md-text-grey-600 text-center">
-                            Free Shipping. Cancel Any Time. No Auto-Renew.
+<div class="section-banner-order banner-bg-6">
+    <div class="container">
+        <div class="row well md-text-black">
+            <ul class="nav nav-pills nav-justified">
+                <li class="nav-item of-nav-active">
+                    <a class="nav-link md-text-white" href="#">1. Register</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">2. Make Payment</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">3. Shipping Details & Preferences</a>
+                </li>
+            </ul>
+        </div>
+        <div class="row">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="row well md-mr-20 sm-mr-10">
+                    <fieldset class="form-group">
+                        <legend>A. Create an Account</legend>
+                        <div class="form-group">
+                            <label for="of-email" class="of-label">Email Address</label>
+                            <input type="email" class="form-control" id="of-email"
+                                   aria-describedby="emailHelp" placeholder="Enter email">
                         </div>
-                    </div>
-                    <div class="row well">
-                        <fieldset class="form-group">
-                            <legend>C. Make Payment</legend>
-
+                        <div class="form-group">
+                            <label for="of-password" class="of-label">Confirm Email</label>
+                            <input type="password" class="form-control" id="of-password"
+                                   placeholder="Confirm Email Address">
+                        </div>
+                    </fieldset>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="row well">
+                    <fieldset class="form-group">
+                        <legend>B. Select your Subscription</legend>
+                        <div class="col-md-6">
                             <div class="form-check">
                                 <label class="form-check-label of-label">
-                                    <input type="checkbox" class="form-check-input">
-                                    Yes. I accept all Terms & Conditions
+                                    <input type="radio" class="form-check-input"
+                                           name="orderTypeOption" id="optionsRadios1"
+                                           value="option1"
+                                           checked>
+                                    3 Months
                                 </label>
+                                <div class="well"></div>
                             </div>
-                            <div class="pm-button text-center md-pt-20">
-                                <a id="payref" href="https://test.payumoney.com/paybypayumoney/#/1966">
-                                    <img src="https://test.payumoney.com//media/images/payby_payumoney/buttons/132.png"/>
-                                </a>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-check">
+                                <label class="form-check-label of-label">
+                                    <input type="radio" class="form-check-input"
+                                           name="orderTypeOption" id="optionsRadios2"
+                                           value="option2">
+                                    6 Months
+                                </label>
+                                <div class="well"></div>
                             </div>
-                        </fieldset>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-check">
+                                <label class="form-check-label of-label">
+                                    <input type="radio" class="form-check-input"
+                                           name="orderTypeOption" id="optionsRadios3"
+                                           value="option3">
+                                    Trial Box
+                                </label>
+                                <div class="well"></div>
+                            </div>
+                        </div>
+                    </fieldset>
+                    <div class="well md-text-grey-600 text-center">
+                        Free Shipping. Cancel Any Time. No Auto-Renew.
                     </div>
+                </div>
+                <div class="row well">
+                    <fieldset class="form-group">
+                        <legend>C. Make Payment</legend>
+
+                        <div class="form-check">
+                            <label class="form-check-label of-label">
+                                <input type="checkbox" class="form-check-input">
+                                Yes. I accept all Terms & Conditions
+                            </label>
+                        </div>
+                        <div class="pm-button text-center md-pt-20">
+                            <a id="payref" href="https://test.payumoney.com/paybypayumoney/#/1966">
+                                <img src="https://test.payumoney.com//media/images/payby_payumoney/buttons/132.png"/>
+                            </a>
+                        </div>
+                    </fieldset>
                 </div>
             </div>
         </div>
     </div>
 </div>
-
-<footer class="footer footer-st-8">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-4 col-sm-12 col-xs-12">
-                <div class="ft-social-row">
-                    <ul class="social-default social-icon">
-                        <li>
-                            <a href="https://www.instagram.com/treats_from_uk/">
-                                <i class="fa fa-instagram"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.facebook.com/treatsfromuk/">
-                                <i class="fa fa-facebook"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://twitter.com/treatsfromuk">
-                                <i class="fa fa-twitter"></i>
-                            </a>
-                        </li>
-
-                    </ul>
-                </div>
-            </div>
-            <div class="col-md-8 col-sm-12 col-xs-12 text-right">
-                <p class="ft-credits">&copy; 2017, All Rights Reserved, Treat From UK</p>
+<!-- =============== Section Contact =============== -->
+<section class="section section-contact section-contact-st-1" id="contact-us">
+    <div class="contact-top">
+        <div id="map" class="map"></div>
+        <div class="container">
+            <div id="contact_div" class="contact-box pull-right text-center">
+                <h2>contact us</h2>
+                <p>Feel free to write to us if you have any questions or need more details.
+                    <br/> We will get back to you in 2 working days.
+                </p>
+                <form id="contact_form2" class="dv-form" dv-service="dvmailchimp">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-6 col-xs-12">
+                            <div class="form-group">
+                                <input type="text" name="name" id="name" class="form-control"
+                                       placeholder="Full Name">
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-sm-6 col-xs-12">
+                            <div class="form-group">
+                                <input type="email" name="email" id="email" class="form-control"
+                                       placeholder="Email" required="true">
+                            </div>
+                        </div>
+                        <div class="col-md-12 col-xs-12">
+                            <div class="form-group">
+                                    <textarea name="message" id="message"
+                                              placeholder="Enter Your description here"
+                                              class="form-control" required="true"></textarea>
+                            </div>
+                        </div>
+                        <div class="col-md-12 col-xs-12">
+                            <input type="submit" value="Send Now" class="btn btn-8 btn-default"
+                                   id="submit_btn2">
+                        </div>
+                    </div>
+                </form>
+                <div id="contact_results"></div>
             </div>
         </div>
     </div>
-</footer>
+</section>
+<!-- =============== Section Contact =============== -->
+
 {% endblock %}
 
 {% block scripts %}
 <script type="text/javascript" src="/js/order.js"></script>
+<script type="text/javascript"
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBueyERw9S41n4lblw5fVPAc9UqpAiMgvM&amp;"></script>
+<script type="text/javascript" src="/js/gmap.js"></script>
+
 {% endblock %}
