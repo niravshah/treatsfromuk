@@ -5,11 +5,8 @@ var env = process.env.NODE_ENV || 'dev';
 var config = require('./config')[env];
 console.log("ENV:", env);
 
-//var mongoose = require('mongoose');
-//mongoose.connect(config.mongoUrl);
-
-//var mongo_express = require('mongo-express/lib/middleware');
-//app.use('/mongo_express', mongo_express(config.mongo_express_config));
+var mongoose = require('mongoose');
+mongoose.connect(config.mongoUrl);
 
 var path = require('path');
 app.use(express.static(path.join(__dirname, 'public')));
@@ -38,7 +35,7 @@ var salt = bcrypt.genSaltSync(10);
 
 require('./routes/home')(app, passport);
 require('./routes/mailchimp')(app, config);
-require('./routes/zendesk')(app, config);
+require('./routes/mailgun')(app,config);
 require('./routes/payumoney')(app, config);
 
 // catch 404 and forward to error handler

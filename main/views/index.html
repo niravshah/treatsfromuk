@@ -47,9 +47,9 @@
                     <img src="/img/banner/tfu-1.png" alt="app1" style="max-width:100%;max-height: 100%;"/>
                 </div>
                 <div class="col-md-7 col-sm-7 col-xs-12 pull-left md-pt-50">
-                    <h1 class="banner-h1">We are creating smart websites.</h1>
-                    <p class="visible-md">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
-                        in scelerisque nisi, a convallis nibh. Etiam posuere faucibus lectus quis volutpat urna consequat.</p>
+                    <h1 class="banner-h1">All the UK favourites</h1>
+                    <p class="visible-md visible-lg">Packed fresh from London and delivered to your doorstep.
+                        <br/>A different collection every month.</p>
                     <a href="#whats-in-the-box" class="btn btn-default">learn more</a>
                     <a href="/order" class="btn btn-primary">order now</a>
                 </div>
@@ -60,32 +60,6 @@
 <!-- =============== Banner Slogan =============== -->
 <!-- =============== Main =============== -->
 <main>
-    <!-- =============== ../Section Newsletter =============== -->
-    <section class="section-subscribe section-subscribe-st-8">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-5 subscribe-content">
-                    <div class="subscribe-content-inner">
-                        <h3 class="title-main-color">GET OUR LATEST OFFERS</h3>
-                        <p class="visible-md">Leave us your email for our monthly goodies newsletter</p>
-                    </div>
-                </div>
-                <div class="col-md-7 subscribe-form">
-                    <div class="subscribe-form-inner">
-                        <form class="dv-form" dv-service="dvmailchimp">
-                            <input type="email" class="form-control" name="email" id="email"
-                                   placeholder="Enter Your Email Address">
-                            <button type="submit" class="btn btn-8 btn-default" id="submit_btn1">
-                                SUBSCRIBE
-                            </button>
-                            <div id="contact_results"></div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- =============== ../Section Newsletter =============== -->
     <!-- =============== Section Testimonials =============== -->
     <section id="testimonials" class="section section-testimonials-st-8">
         <div class="container">
@@ -250,9 +224,10 @@
         <div class="contact-top">
             <div id="map" class="map"></div>
             <div class="container">
-                <div class="contact-box pull-right text-center">
+                <div id="contact_div" class="contact-box pull-right text-center">
                     <h2>contact us</h2>
-                    <p>Cras ullamcorper neque sit amet tortor hendrerit, at tristique <br> leo cursus. Donec tempor, neque laoreet dignissim finibus <br> lacus eros tristique nisi!
+                    <p>Feel free to write to us if you have any questions or need more details.
+                        <br/> We will get back to you in 2 working days.
                     </p>
                     <form id="contact_form2" class="dv-form" dv-service="dvmailchimp">
                         <div class="row">
@@ -263,20 +238,20 @@
                             </div>
                             <div class="col-md-6 col-sm-6 col-xs-12">
                                 <div class="form-group">
-                                    <input type="email" name="email" id="email" class="form-control" placeholder="Email">
+                                    <input type="email" name="email" id="email" class="form-control" placeholder="Email" required="true">
                                 </div>
                             </div>
                             <div class="col-md-12 col-xs-12">
                                 <div class="form-group">
-                                    <textarea name="message" id="message" placeholder="Enter Your description here" class="form-control"></textarea>
+                                    <textarea name="message" id="message" placeholder="Enter Your description here" class="form-control" required="true"></textarea>
                                 </div>
                             </div>
                             <div class="col-md-12 col-xs-12">
                                 <input type="submit" value="Send Now" class="btn btn-8 btn-default" id="submit_btn2">
                             </div>
                         </div>
-                        <div id="contact_results_2"></div>
                     </form>
+                    <div id="contact_results"></div>
                 </div>
             </div>
         </div>
