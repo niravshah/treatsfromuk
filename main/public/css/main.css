@@ -958,6 +958,11 @@ button.nav-toggle{
 	transform:translateY(-50%);
 	z-index:9;
 }
+
+.section-banner-order .banner-text{
+	top:50%;
+}
+
 .banner-h1{
 	font-size:70px;
 	text-transform:uppercase;
@@ -1107,7 +1112,15 @@ button.nav-toggle{
 .section-banner-st-6{
 	height:720px;
 	position:relative;
-}	
+}
+
+.section-banner-order{
+	height:1020px;
+	position:relative;
+	padding-top: 200px;
+}
+
+
 .banner-bg-6{
 	background-image:url('../img/banner/banner6.jpg');
 	background-repeat:no-repeat;
@@ -6436,6 +6449,12 @@ button.nav-toggle{
 	.section-banner-st-6 {
 		height: 800px;
 	}
+
+	.section-banner-order {
+		height: 1020px;
+		padding-top: 100px;
+	}
+
 	.banner-app1, .banner-app2 {
 		-webkit-transform: translateY(10);
 		-moz-transform: translateY(-10%);
@@ -7059,6 +7078,12 @@ button.nav-toggle{
 	.section-banner-st-6 {
 		height: 800px;
 	}
+
+	.section-banner-order {
+		height: 2020px;
+		padding-top: 200px;
+	}
+
 }
 
 @media (max-width : 740px){
