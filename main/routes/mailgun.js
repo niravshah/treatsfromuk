@@ -19,9 +19,13 @@ module.exports = function (app,config) {
         };
 
         mailgun.messages().send(data, function (err, body) {
-            console.log('Error: ',err);
-            console.log(body);
-            res.json("{msg:ok}");
+
+            if(err){
+                res.json("{type:error, message:err}");
+            }else{
+                res.json("{type:success, message:body}");
+            }
+
         });
 
     });
