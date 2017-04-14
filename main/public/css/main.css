@@ -3039,6 +3039,8 @@ button.nav-toggle{
 .header-st-8 ul li{  padding:0 26px; margin-right: 0; list-style-type:none;}
 .header-st-8 ul li:last-child{ padding:0 0 0 34px; }
 .header-st-8 ul li a{ color:#fff;  padding: 0; font-weight:700; line-height: 44px; transition: all 0.5s ease-in-out;}
+.header-st-8 ul li a.special{ color:#FF8331; }
+.header-st-8 ul li a.special:hover{ color:#FF4418; }
 .header-st-8 ul li a:hover{ color:#01c1f0;}
 
 .header-st-8 .btn{ padding:0 38px;}
