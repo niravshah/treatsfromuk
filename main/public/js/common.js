@@ -66,44 +66,6 @@ $(document).ready(function () {
     });
 
 
-    $(function () {
-
-        glio.init(
-            ['top', function () {
-
-                $.magnificPopup.open({
-                                         items: {
-                                             src: 'img/banner/banner18.jpg'
-                                         },
-                                         type: 'image'
-                                     });
-
-            }
-            ],
-            ['top-left', function () {
-
-                $.magnificPopup.open({
-                                         items: {
-                                             src: 'img/banner/banner18.jpg'
-                                         },
-                                         type: 'image'
-                                     });
-            }
-            ],
-            ['top-right', function () {
-
-                $.magnificPopup.open({
-                                         items: {
-                                             src: 'img/banner/banner18.jpg'
-                                         },
-                                         type: 'image'
-                                     });
-
-            }
-            ]
-        );
-    });
-
     // Button Effect
 
     var ink, d, x, y;
